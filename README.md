@@ -13,8 +13,9 @@ Welcome to the Machine Learning Algorithms Repository! This repository contains 
 7. **MeanShift.py**: Implementation of Mean Shift clustering algorithm.
 8. **NNScratch.py**: Implementation of a simple Neural Network from scratch.
 9. **NormalLinearRegression.py**: Implementation of Normal Linear Regression.
-10. **OneLayerNN.py**: Implementation of a one-layer Neural Network.
-11. **PCA.py**: Implementation of Principal Component Analysis.
+10. 9. **NormalLinearRegression.pdf**: Derivation for Normal Linear Regression.
+11. **OneLayerNN.py**: Implementation of a one-layer Neural Network.
+12. **PCA.py**: Implementation of Principal Component Analysis.
 
 ## Getting Started
 
