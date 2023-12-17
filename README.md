@@ -22,7 +22,7 @@ Welcome to the Machine Learning Algorithms Repository! This repository contains 
 To use these algorithms, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/machine-learning-algorithms.git
+git clone https://github.com/coolLaksh/machine-learning-algorithms.git
 ```
 
 Navigate to the specific algorithm's file to see the implementation details and usage examples.
